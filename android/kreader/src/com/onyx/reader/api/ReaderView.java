@@ -1,4 +1,4 @@
-package com.onyx.reader.plugin;
+package com.onyx.reader.api;
 
 import java.util.List;
 
@@ -38,27 +38,9 @@ public interface ReaderView {
     public ReaderTextStyleManager getTextStyleManager();
 
     /**
-     * Retrieve scaling manager interface.
-     * @return
-     */
-    public ReaderScalingManager getScalingManager();
-
-    /**
-     * Retrieve ReaderPageLayout manager interface.
-     * @return
-     */
-    public ReaderPageLayoutManager getPageLayoutManager();
-
-    /**
      * Retrieve reader hit test.
      */
     public ReaderHitTestManager getReaderHitTestManager();
-
-    /**
-     * Retrieve current visible links.
-     * @return
-     */
-    public List<ReaderLink> getVisibleLinks();
 
     /**
      * Retrieve search interface.

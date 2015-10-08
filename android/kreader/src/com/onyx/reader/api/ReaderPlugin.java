@@ -1,4 +1,6 @@
-package com.onyx.reader.plugin;
+package com.onyx.reader.api;
+
+import android.content.Context;
 
 import java.util.List;
 

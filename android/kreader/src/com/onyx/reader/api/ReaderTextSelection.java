@@ -1,6 +1,5 @@
-package com.onyx.reader.plugin;
+package com.onyx.reader.api;
 
-import android.graphics.PointF;
 import android.graphics.RectF;
 
 import java.util.List;

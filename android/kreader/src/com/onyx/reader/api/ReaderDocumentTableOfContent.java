@@ -1,6 +1,4 @@
-package com.onyx.reader.plugin;
-
-import java.util.List;
+package com.onyx.reader.api;
 
 /**
  * Created by zhuzeng on 10/2/15.

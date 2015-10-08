@@ -1,4 +1,4 @@
-package com.onyx.reader.plugin;
+package com.onyx.reader.api;
 
 /**
  * Created by zhuzeng on 10/3/15.
